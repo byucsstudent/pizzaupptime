@@ -7,13 +7,16 @@ sites:
     url: https://pizza.byucsstudent.click
 
 status-website:
+  cname: status.byucssstudent.click
   baseUrl: /
-  logoUrl: https://raw.githubusercontent.com/byucsstudent/pizzaupptime/master/static/img/icon.svg
+  logoUrl: https://pizza.byucsstudent.click/jwt-pizza-icon.png
+  theme: dark
+  showPoweredBy: false
   name: JWT Pizza
   introTitle: "🍕 **JWT Pizza** - The finest virtual pizza joint on the planet."
   introMessage: "We make every effort to keep the pizzas flying, but if there is something wrong you will see it reported here"
   navbar:
-    - title: Status
-      href: https://status.byucsstudent.click
+    - title: Pizza
+      href: https://pizza.byucsstudent.click
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
