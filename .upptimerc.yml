@@ -7,7 +7,7 @@ sites:
     url: https://pizza.byucsstudent.click
 
 status-website:
-  baseUrl: /pizzaupptime
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/byucsstudent/pizzaupptime/master/static/img/icon.svg
   name: JWT Pizza
   introTitle: "**JWTPizza** the finest virtual pizza joint on the planet."
