@@ -10,7 +10,7 @@ status-website:
   baseUrl: /
   logoUrl: https://raw.githubusercontent.com/byucsstudent/pizzaupptime/master/static/img/icon.svg
   name: JWT Pizza
-  introTitle: ":pizza: **JWT Pizza** - The finest virtual pizza joint on the planet."
+  introTitle: "🍕 **JWT Pizza** - The finest virtual pizza joint on the planet."
   introMessage: "We make every effort to keep the pizzas flying, but if there is something wrong you will see it reported here"
   navbar:
     - title: Status
