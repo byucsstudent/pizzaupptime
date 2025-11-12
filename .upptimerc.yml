@@ -10,7 +10,6 @@ status-website:
   cname: status.byucsstudent.click
   baseUrl: /
   logoUrl: https://pizza.byucsstudent.click/jwt-pizza-icon.png
-  theme: dark
   showPoweredBy: false
   name: JWT Pizza
   introTitle: "🍕 **JWT Pizza** - The finest virtual pizza joint on the planet."
