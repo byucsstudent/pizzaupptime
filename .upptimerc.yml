@@ -7,7 +7,7 @@ sites:
     url: https://pizza.byucsstudent.click
 
 status-website:
-  cname: status.byucssstudent.click
+  cname: status.byucsstudent.click
   baseUrl: /
   logoUrl: https://pizza.byucsstudent.click/jwt-pizza-icon.png
   theme: dark
