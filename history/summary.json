@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pizza.byucsstudent.click.ico",
     "slug": "jwt-pizza",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "66.43%",
-    "uptimeWeek": "95.20%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.50%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "80.95%",
+    "uptimeMonth": "95.62%",
+    "uptimeYear": "99.50%",
     "time": 184,
     "timeDay": 0,
-    "timeWeek": 175,
-    "timeMonth": 171,
+    "timeWeek": 176,
+    "timeMonth": 163,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2026-08-06": 174,
+      "2026-08-07": 171,
+      "2026-08-06": 1440,
       "2026-08-05": 310
     }
   }
